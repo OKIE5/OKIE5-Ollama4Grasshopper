@@ -10,4 +10,4 @@ Developed by **OKIE5**, this plugin bridges Rhino with LLM AI-assisted design to
 
 More Coming Soon!
 
-*Stay for our first launch of a multi-part rollout over the next few months.* 
+*Stay tuned for our first launch of a multi-part rollout over the next few months.* 
