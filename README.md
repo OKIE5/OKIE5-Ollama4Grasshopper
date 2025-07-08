@@ -1,9 +1,13 @@
 # 🦙 OKIE5-Ollama4Rhino
 
-**OKIE5-Ollama4Rhino** is a custom plugin that connects your **Rhino 8 + Grasshopper** environment to **local LLMs** running through [Ollama](https://ollama.com). This enables intelligent, prompt-based workflows for geometry editing, design scripting, and real-time context-aware modeling.
+Access Ollama locally through your Rhino8/Grasshopper interface using our custom plugin at Food4Rhino!
 
-Built by **OKIE5**, this tool makes local AI usable in architecture, design, and studio settings.
+**OKIE5-Ollama4Rhino** is a powerful Rhino Grasshopper plugin that connects your local Grasshopper environment to large language models (LLMs) running on [Ollama](https://ollama.com), enabling natural language design workflows, agentic command routing, and real-time context-aware modeling.
+
+Developed by **OKIE5**, this plugin bridges Rhino with LLM AI-assisted design tools providing a fully local, secure, and license-transparent plugin.
 
 ---
+
+*Stay for our first launch of a multi-part rollout over the next few months.* 
 
 More Coming Soon!
