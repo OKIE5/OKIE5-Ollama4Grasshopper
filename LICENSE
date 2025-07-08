@@ -1,19 +1,20 @@
-# LICENSE
+LICENSE
 
-## Disclaimer
-**By downloading this plugin, you acknowledge that OKIE5 is providing 
+Disclaimer
+
+By downloading this plugin, you acknowledge that OKIE5 is providing 
 access to a design interface, integration layer, and software toolset. 
 This plugin does not include, preload, or distribute any AI models 
 (restricted or open-source). Users are solely responsible for sourcing 
 models independently and assume all associated risks and responsibilities 
-related to their use.**
+related to their use.
 
-## Notice
-This app does **not bundle or distribute** any language models.  
+Notice
+This app does NOT bundle or distribute any language models.  
 All downloads are initiated by the user. By continuing, you agree that:
 
 - You understand the license attached to each selected model
 - You accept responsibility for using models in accordance with their license
 - You will not use restricted models in commercial settings unless properly licensed
 
-✅ **Recommended**: Stick to models licensed under **Apache 2.0** or **MIT** for commercial use.
+✅ Recommended: Stick to models licensed under Apache 2.0 or MIT for commercial use.
