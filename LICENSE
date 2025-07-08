@@ -1,6 +1,6 @@
 LICENSE
 
-Disclaimer
+🛑 Disclaimer
 
 By downloading this plugin, you acknowledge that OKIE5 is providing 
 access to a design interface, integration layer, and software toolset. 
@@ -18,3 +18,8 @@ All downloads are initiated by the user. By continuing, you agree that:
 - You will not use restricted models in commercial settings unless properly licensed
 
 ✅ Recommended: Stick to models licensed under Apache 2.0 or MIT for commercial use.
+
+OKIE5-Ollama is an independently developed plugin that interfaces with the locally hosted Ollama API.  
+It is not affiliated with, endorsed by, or supported by Ollama Inc.  
+“Ollama” is a trademark of its respective owner.
+
