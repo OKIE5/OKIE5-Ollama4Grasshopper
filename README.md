@@ -1,4 +1,4 @@
-# 🦙 OKIE5-Ollama4Rhino
+# 🦙 OKIE5-Ollama4Grasshopper
 
 **OKIE5-Ollama4Rhino** is a powerful Rhino Grasshopper plugin that connects your local Grasshopper environment to large language models (LLMs) running on [Ollama](https://ollama.com), enabling natural language design workflows, agentic command routing, and real-time context-aware modeling.
 
