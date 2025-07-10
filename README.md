@@ -4,7 +4,7 @@
 
 Developed by **OKIE5**, this plugin bridges Rhino with LLM AI-assisted design tools providing a fully local, secure, and license-transparent plugin.
 
-Access Ollama locally through your Rhino8/Grasshopper interface using our custom plugin at [Food4Rhino](https://www.food4rhino.com/en)!
+Access Ollama locally through your Rhino8/Grasshopper interface using our custom plugin at [Food4Rhino](https://food4rhino.com/en)!
 
 ---
 
