@@ -8,9 +8,6 @@ Access Ollama locally through your Rhino8/Grasshopper interface using our custom
 
 ---
 
-DOWNLOAD LINK: https://www.food4rhino.com/en/app/okie5-ai?lang=en
----
-
 More Coming Soon!
 
 *Stay tuned for our first launch of a multi-part rollout over the next few months.* 
